@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+body{
+    width: auto;
+}
+
+section{
+    margin-top: 15px;
+    text-align: center;
+    border: solid 3px;
+    box-shadow: 5px 5px 5px 5px;
+}
+
+button{
+    padding: 25px;
+}
+
+#operacoes-button{
+    padding: 8px;
+    font-weight: bold;
+}
+
+#teclado-virtual{
+    height: 280px;
+    padding-top: 60px;
+}
